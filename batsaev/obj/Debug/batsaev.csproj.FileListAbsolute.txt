@@ -1,0 +1,13 @@
+D:\batsaev\batsaev\batsaev\bin\Debug\batsaev.exe.config
+D:\batsaev\batsaev\batsaev\bin\Debug\batsaev.exe
+D:\batsaev\batsaev\batsaev\bin\Debug\batsaev.pdb
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.csproj.AssemblyReference.cache
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.Form1.resources
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.Properties.Resources.resources
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.csproj.GenerateResource.cache
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.csproj.CoreCompileInputs.cache
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.exe
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.pdb
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.Form2.resources
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.Form3.resources
+D:\batsaev\batsaev\batsaev\obj\Debug\batsaev.Form4.resources
